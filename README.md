@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @deukyunlee
+- 👀 I’m interested in Blockchain Tech.
+- 🎓 I’m pursuing my CS bachelor's degree at Hanyang Univ. ERICA
+- 📢 I have served in the Army as KATUSA in Pyeongtaek, South Korea
+- ⚽ I love to play and watch football
