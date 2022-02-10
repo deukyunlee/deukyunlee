@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @deukyunlee
+- 🎓 I’m pursuing my CS bachelor's degree at Hanyang Univ. ERICA
 - 👀 I’m interested in Blockchain Tech.
 - :rocket: Currently working on stock project and NFT project(private)
-- 🎓 I’m pursuing my CS bachelor's degree at Hanyang Univ. ERICA
-- 📢 I have served in the Army as KATUSA in Pyeongtaek, South Korea
+- :us: I have served in the Army as KATUSA in Pyeongtaek, South Korea 
+- Language : golang, nodejs
