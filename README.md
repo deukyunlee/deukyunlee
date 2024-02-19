@@ -3,4 +3,4 @@
 - 👀 I’m interested in Blockchain Tech.
 - :rocket: Currently working on stock project and NFT project(private)
 - :us: I have served in the Army as KATUSA in Pyeongtaek, South Korea 
-- Language : golang, nodejs
+- Language : JAVA, GO
